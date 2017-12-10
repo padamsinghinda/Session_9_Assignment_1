@@ -22,22 +22,22 @@ Step-2)
 Summarizing two categorical variables(denoting gender) within a below mentioned two-way table, also called a r × c contingency table, 
 where r = number of rows, c = number of columns.
 
- 	   | High School| Bachelors	| Masters | Ph.d. | Total |
-Female |    60	    |   54	    |   46	  |  41	  |  201  |
+ 	     |High School| Bachelors| Masters| Ph.d. | Total    |
+Female |    60	    |   54	    |   46	  |  41	  |  201     |
 -----------------------------------------------------------
-Male   |    40	    |   44	    |   53	  |  57	  |  194  |
+Male   |    40	    |   44	    |   53	  |  57	  |  194     |
 -----------------------------------------------------------
-Total  |   100	    |   98	    |   99	  |  98	  |  395  |
+Total  |   100	    |   98	    |   99	  |  98	  |  395     |
 -----------------------------------------------------------
 
 Here's the table of expected counts:
 
- 	   | High School| Bachelors	| Masters | Ph.d.  | Total |
+ 	     | High School| Bachelors	| Masters | Ph.d.  | Total |
 Female |  50.886    | 49.868    |  50.377 | 49.868 |  201  |
 ------------------------------------------------------------
 Male   |  49.114    | 48.132    |  48.623 | 48.132 |  194  |
 ------------------------------------------------------------
-Total  |   100	    |   98	    |   99	  |  98	   |  395  |
+Total  |   100	     |   98	     |   99	   |  98	   |  395  |
 ------------------------------------------------------------
 
 
